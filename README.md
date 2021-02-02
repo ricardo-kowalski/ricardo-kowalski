@@ -16,7 +16,7 @@
 -->
 
 ### About me
-I'm Ricardo,  a mathematician and developer.
+I'm Ricardo,  a mathematician and developer from Brazil.
 
 - [Portfolio](https://sites.google.com/aluno.ifsp.edu.br/ricardoprofile) 💻 - Some of my work.
 
