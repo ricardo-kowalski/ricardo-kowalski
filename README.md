@@ -16,7 +16,7 @@
 -->
 
 ### About me
-I'm Ricardo,  a mathematician and developer from Brazil.
+I'm Ricardo,  a software developer from Brazil.
 
 - [Portfolio](https://sites.google.com/view/ricardo-kowalski) 💻 - Some of my work.
 
@@ -42,8 +42,8 @@ I'm Ricardo,  a mathematician and developer from Brazil.
 **I'm looking for:**
 
 - 👨🏽‍💻 Work on cool projects :wink:;
-- :iphone: Mobile Development: Cross-Platform Apps, API Consumption, UX Design;
-- :computer: Back-End Development: Creation of API’s, Integration with M.L. Models, Relational and Non-relational Databases; 
+- :iphone: Mobile Development: Cross-Platform Apps, API Consumption;
+- :computer: Back-End Development: Creation of API’s,Relational and Non-relational Databases; 
 - :robot: Machine Learning / Deep Learning: Predictive Models, Convolutional Networks, Deploying Models;
 - :wrench: Operations Research: Combinatorial Optimization, Linear Programming, Decision Analysis;
 
